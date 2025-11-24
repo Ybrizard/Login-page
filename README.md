@@ -53,29 +53,6 @@ Desenvolver autonomia na personalização do código
 * **Google Fonts — Poppins**
 * **Font Awesome (ícones de usuário, cadeado, redes sociais)**
 
-
-## 🚀 Como Funciona a Animação Sign In / Sign Up
-
-A transição entre os formulários é controlada através da classe:
-
-```
-.sign-up-mode
-```
-
-Quando o usuário clica em **Sign Up**, o JavaScript adiciona essa classe ao container:
-
-```js
-container.classList.add("sign-up-mode");
-```
-
-E quando clica em **Sign In**, ela é removida:
-
-```js
-container.classList.remove("sign-up-mode");
-```
-
-O CSS altera posições, opacidade e animações tanto dos painéis quanto dos formulários.
-
 ## 📱 Responsividade
 
 O layout foi otimizado para:
@@ -84,12 +61,9 @@ O layout foi otimizado para:
 * Tablets
 * Celulares até 570px
 
-## 📌 Conclusão
+<img width="1341" height="611" alt="image" src="https://github.com/user-attachments/assets/1ac0418d-a1fd-462e-9150-206acd260599" />
+<img width="1353" height="609" alt="image" src="https://github.com/user-attachments/assets/499991e4-95ff-4582-b198-1d2983b6b381" />
+![0](https://github.com/user-attachments/assets/eb49728b-2471-4597-b072-f788f38b4359)
+![0](https://github.com/user-attachments/assets/ad0000ae-32d2-4ee5-96a4-651f30622b69)
 
-Este projeto combina **front-end moderno**, **animação fluida**, **design responsivo** e **ilustrações personalizadas**, criando uma interface visualmente agradável e funcional. É ideal para estudos, portfólios, projetos educacionais ou adaptação para sistemas reais.
-
-
-
-
-<img width="745" height="572" alt="image" src="https://github.com/user-attachments/assets/22f01259-2af5-4762-9452-514039afebc7" />
 
