@@ -63,7 +63,3 @@ O layout foi otimizado para:
 
 <img width="1341" height="611" alt="image" src="https://github.com/user-attachments/assets/1ac0418d-a1fd-462e-9150-206acd260599" />
 <img width="1353" height="609" alt="image" src="https://github.com/user-attachments/assets/499991e4-95ff-4582-b198-1d2983b6b381" />
-![0](https://github.com/user-attachments/assets/eb49728b-2471-4597-b072-f788f38b4359)
-![0](https://github.com/user-attachments/assets/ad0000ae-32d2-4ee5-96a4-651f30622b69)
-
-
